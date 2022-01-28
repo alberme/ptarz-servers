@@ -1,0 +1,15 @@
+{
+    "project": "ptarz-serverz",
+    "zone": "us-west2-a",
+    "servers": 
+    [
+        {
+            "name": "sdtd",
+            "script_stream_log": ""
+        },
+        {
+            "name": "kf2",
+            "script_stream_log": ""
+        }
+    ]
+}
